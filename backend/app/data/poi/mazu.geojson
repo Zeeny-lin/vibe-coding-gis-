@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蔡厝村妈祖庙",
+        "address": "东海蔡厝村888号",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.938424,
+          25.273646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲祖庙莆田会馆",
+        "address": "荔城中大道与福兴路交叉口东北40米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.002941,
+          25.444534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖庙",
+        "address": [],
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.970856,
+          25.620214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "壶山极高明湄洲妈祖分联天后圣宫",
+        "address": "15国道沈海高速壶公山风景区",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.01672,
+          25.35361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "罗屿村兴隆宫妈祖庙",
+        "address": "乐屿鲍鱼东侧270米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.026154,
+          25.173321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建省莆田市荔城区北高镇前亭村前营钱赢社妈祖庙",
+        "address": "北高镇前亭村前营52号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.213181,
+          25.306334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白湖妈祖庙",
+        "address": "盖尾镇义店村白湖188号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.816669,
+          25.360163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "陈靖姑祖庙",
+        "address": "东庄镇马厂村",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.004212,
+          25.236644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "杉尾妈祖庙",
+        "address": "郑元水之路与玉金路交叉口西300米",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.833674,
+          25.360178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "土头(大蚶宫)",
+        "address": "埭头镇潘宅村石兜大蚶宫妈祖庙",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.261286,
+          25.303703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "貂峰仙公山妈祖殿",
+        "address": "龙华镇貂峰村洪厝382号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": "13062290800",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.620324,
+          25.336004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖耿演屿祖庙",
+        "address": "埭头镇翁厝村湖耿",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.30507,
+          25.236167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北辰祖庙",
+        "address": "北辰路与云商街交叉口东南200米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019537,
+          25.472661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区辰门兜头亭瑞云祖庙",
+        "address": "镇海中街与仪莘路交叉口西南80米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.027973,
+          25.439222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顶坑妈祖庙",
+        "address": "九峰村顶坑",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.118397,
+          25.504601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七步妈祖庙",
+        "address": "七步村郊东下郊边68号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.058937,
+          25.452787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西亭妈祖庙",
+        "address": "白塘镇双福村",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.072378,
+          25.456602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞云祖庙",
+        "address": "白塘镇显应村后亭",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.076591,
+          25.444372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙井祖庙",
+        "address": "建业路与228国道交叉口西",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.034904,
+          25.295176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大坵埔祖庙",
+        "address": "笏石镇大坵村735号",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.106642,
+          25.305083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东汾五帝祖庙",
+        "address": "东进服务区与G15沈海高速交叉口南500米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.982731,
+          25.289418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "东蔡村",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "13611898188",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.150144,
+          25.282778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲岛国家旅游度假区-妈祖文化园",
+        "address": "湄洲岛(莆田市秀屿区湄洲大道湄洲岛内)",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094688",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.148044,
+          25.089958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "荔湖路与尚勤街交叉口西南100米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.054286,
+          25.415412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺天圣母祖庙",
+        "address": "东庄镇陈靖姑祖庙附近",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.004442,
+          25.236862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福慧寺",
+        "address": "天后中路与祖祠路交叉口南280米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.126458,
+          25.131305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东坡天后宫",
+        "address": "梧塘镇后东坡",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.097666,
+          25.483926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "贤良港天后祖祠",
+        "address": "山亭镇流通桥(妈祖小学西南侧约100米)",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-2656677",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.125358,
+          25.130917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东山湄洲妈祖行宫",
+        "address": "胜利北路1396号东岩山公园内(南侧)",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.017915,
+          25.443776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清风岭天后宫",
+        "address": "胜利北街与东园西路交叉口西180米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.015782,
+          25.441434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观音殿",
+        "address": "湄洲岛北端牛头尾山麓湄洲妈祖祖庙内",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094688",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.147631,
+          25.090147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖宫",
+        "address": "妈祖宫(324国道东)",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.895001,
+          25.344846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲妈祖祖庙仙游盖尾龙山分灵庙",
+        "address": "盖尾第二中心小学西侧约160米",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.814045,
+          25.351023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石璧祖宫",
+        "address": "庄边镇妈祖庙(西南角)",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.970819,
+          25.62013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黄石海滨妈祖宫",
+        "address": "黄石镇海滨村顶头坵159号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.11204,
+          25.411045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖庙",
+        "address": "后溪村下磨头71号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81846,
+          25.30895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鲤山寺",
+        "address": "莆禧村东门93号",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.144876,
+          25.135963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙田天后宫",
+        "address": "鲤南镇东山村",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.693889,
+          25.328461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖宫",
+        "address": "温东村下尾368",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.056752,
+          25.275002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田浮屿祖庙浮屿宫",
+        "address": "涵黄大道375号",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": "15980340008",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.092803,
+          25.437118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖庙",
+        "address": [],
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.96252,
+          25.276691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "普明寺",
+        "address": "北高镇东皋村妈祖文化公园西侧260米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.221175,
+          25.333774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣墩顺济祖庙",
+        "address": "涵黄大道梧郊999号",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": "15980340008",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.092296,
+          25.436954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凤山祖庙",
+        "address": "永盛路969号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.091181,
+          25.362747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "下蒋妈祖庙",
+        "address": "学府路42号",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.139734,
+          25.155147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蒲板上墩妈祖庙",
+        "address": "新度镇蒲板村前墩76号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": "13599010869",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.042641,
+          25.377243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马公宫",
+        "address": "天后东路与贤良东路交叉口西320米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.142136,
+          25.136238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫(陈桥村)",
+        "address": "陈桥小学西侧250米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.075322,
+          25.439273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卒仔兜妈祖庙",
+        "address": "南日光照海带养殖场西北侧60米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.516697,
+          25.202702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东山妈祖阁",
+        "address": "月塘镇洋埭村东山001号",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.127965,
+          25.225244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东祖社",
+        "address": "西沙路与天后东路交叉口北280米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.130414,
+          25.137959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平海天后宫",
+        "address": "214县道东50米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.273161,
+          25.17866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山村高地天后宫",
+        "address": "联十一线",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.020855,
+          25.290779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖宫",
+        "address": "区迎宾大道万好街道1119号(ECO旁边)",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.061412,
+          25.379623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "埭头镇224县道(秀屿区埭头镇汀港卫生所东)",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.303052,
+          25.303841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "下庄妈祖庙",
+        "address": "灵川硋灶小学南侧230米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.022394,
+          25.32314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "六峰祖庙",
+        "address": "文峰祖庙南侧130米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.062786,
+          25.653153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区石城妈祖庙",
+        "address": "224县道与坑底路交叉口西460米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.358153,
+          25.253128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "祖庙宫",
+        "address": "龙高庙西北侧270米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.259274,
+          25.219522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埭头宫妈祖服务站",
+        "address": "天能电池西北侧",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.125375,
+          25.291004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "郊尾镇后溪村顶磨头妈祖仰圣庙",
+        "address": "后溪村顶磨头53号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.812864,
+          25.308481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凌厝灵山祖庙",
+        "address": "S55秀永支线与西埔枢纽交叉口东南420米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.046788,
+          25.346022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后圣殿",
+        "address": "山亭镇港里村",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5983843",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.125753,
+          25.130758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "傅经祖庙",
+        "address": "国欢东路与塘头街交叉口东380米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.13946,
+          25.47383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤柱妈祖宫",
+        "address": "北大北街964号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.021836,
+          25.438159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫(显应村)",
+        "address": "涵江区白塘镇显应村后亭27号",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.077999,
+          25.447859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "湄洲镇湄洲北大道988号妈祖祖庙内",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094688",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.148112,
+          25.091154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "兴角吴妈祖宫",
+        "address": "兴山村上宫66号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.894859,
+          25.573043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "仙港大桥附近",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.721306,
+          25.368393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后龙兴宫",
+        "address": "建兴南街651号",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.85418,
+          25.240272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙霞庙",
+        "address": "城南西路与红口巷交叉口西北60米",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.687558,
+          25.351737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "五帝庙",
+        "address": "湄洲岛北端牛头尾山麓湄洲妈祖祖庙内",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094688",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.147208,
+          25.090112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清江天后宫",
+        "address": "黄石镇清后村五马24号",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.062969,
+          25.407874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "下坂妈祖宫",
+        "address": "金银大厦北侧100米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.028721,
+          25.377959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖天后宫",
+        "address": "201省道与疏港路交叉口东北480米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.076462,
+          25.269171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "港后码头天后宫",
+        "address": [],
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.209301,
+          25.476741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "光明殿妈祖宫",
+        "address": "凤凰别墅山庄西北侧430米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.987583,
+          25.433342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南箕天后宫",
+        "address": "荔湖路与尚勤街交叉口西南100米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.054533,
+          25.416656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "英惠妈祖宫",
+        "address": "英惠巷与北大北街交叉口东120米",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.020929,
+          25.436252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "遮浪村妈祖天庭宫",
+        "address": "黄金路",
+        "type": "mazu",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.117054,
+          25.401128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "侯揽妈祖三教祠",
+        "address": "324国道与建兴南街交叉口东340米",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.865217,
+          25.230606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲岛国家旅游度假区-土地庙",
+        "address": "湄洲岛北端牛头尾山麓湄洲妈祖祖庙内",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094688",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.147116,
+          25.090366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "白塘街东100米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.092867,
+          25.437158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲岛国家旅游度假区-顺济殿",
+        "address": "湄洲大道湄洲岛妈祖文化园内",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": "0594-5094611",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.147219,
+          25.088549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖宫",
+        "address": "坂龙路与232县道交叉口北300米",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.736013,
+          25.328904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岐下天后宫",
+        "address": [],
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.234303,
+          25.228812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田山亭家福天后宫",
+        "address": "海滨东路",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.089352,
+          25.127586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "镇前天后宫",
+        "address": "白塘街与228国道交叉口西北500米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.087239,
+          25.427421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "G15沈海高速南50米",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.130715,
+          25.438051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖宫",
+        "address": "东峤万兴小学北侧370米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.140535,
+          25.299527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙桥天后宫",
+        "address": "明阳路与丰源路交叉口西北约160米",
+        "type": "mazu",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.0092,
+          25.455308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天后宫",
+        "address": "联十一线与城港大道交叉口北400米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.055829,
+          25.33182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圣山天后殿",
+        "address": [],
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.616757,
+          25.425995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "钱江境天后宫",
+        "address": "疏港大道与211省道交叉口东北380米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.15731,
+          25.273443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前江村天后宫",
+        "address": "疏港大道214县",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.158603,
+          25.273212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田王氏大宗祠(桂林祖庙)",
+        "address": "人民街699号",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.122389,
+          25.466635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "澄坑妈祖宫",
+        "address": "清源东路东南侧",
+        "type": "mazu",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.695603,
+          25.372985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灵慈西宫",
+        "address": "天后中路与祖祠路交叉口西南400米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.123707,
+          25.130736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前林天后圣母宫",
+        "address": "滨海路39号",
+        "type": "mazu",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.102334,
+          25.44974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新兴东社",
+        "address": "妈祖宫东侧60米",
+        "type": "mazu",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.141151,
+          25.299302
+        ]
+      }
+    }
+  ]
+}

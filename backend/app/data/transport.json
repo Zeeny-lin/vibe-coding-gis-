@@ -1,0 +1,570 @@
+{
+  "city": "莆田市",
+  "update_time": "2026-01-18 15:59",
+  "railway": {
+    "total_stations": 3,
+    "lines": [
+      "福厦铁路",
+      "杭深铁路",
+      "向莆铁路"
+    ],
+    "total_mileage": 125.6,
+    "stations": [
+      {
+        "name": "莆田站",
+        "type": "高铁站",
+        "lines": [
+          "福厦铁路",
+          "杭深铁路"
+        ],
+        "address": "城厢区荔城大道",
+        "coordinates": [
+          119.062718,
+          25.350759
+        ],
+        "level": "一等站",
+        "daily_passengers": 35000,
+        "description": "福建省重要铁路枢纽，福厦高铁和杭深铁路交汇站"
+      },
+      {
+        "name": "仙游站",
+        "type": "高铁站",
+        "lines": [
+          "福厦铁路"
+        ],
+        "address": "仙游县鲤城街道",
+        "coordinates": [
+          118.871635,
+          25.250204
+        ],
+        "level": "三等站",
+        "daily_passengers": 8000,
+        "description": "仙游县主要铁路客运站"
+      },
+      {
+        "name": "涵江站",
+        "type": "货运站",
+        "lines": [
+          "向莆铁路"
+        ],
+        "address": "涵江区白塘镇",
+        "coordinates": [
+          119.175937,
+          25.491836
+        ],
+        "level": "三等站",
+        "daily_passengers": 2000,
+        "description": "主要承担货运任务"
+      }
+    ],
+    "schedules": [
+      {
+        "train_no": "G2801",
+        "from": "莆田",
+        "to": "福州",
+        "depart": "06:30",
+        "arrive": "07:05",
+        "duration": "35分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D6521",
+        "from": "莆田",
+        "to": "厦门",
+        "depart": "07:15",
+        "arrive": "08:23",
+        "duration": "1小时8分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2803",
+        "from": "莆田",
+        "to": "福州",
+        "depart": "08:00",
+        "arrive": "08:35",
+        "duration": "35分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D3231",
+        "from": "莆田",
+        "to": "上海虹桥",
+        "depart": "08:45",
+        "arrive": "14:21",
+        "duration": "5小时36分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2805",
+        "from": "莆田",
+        "to": "深圳北",
+        "depart": "09:30",
+        "arrive": "13:56",
+        "duration": "4小时26分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D6335",
+        "from": "莆田",
+        "to": "泉州",
+        "depart": "10:05",
+        "arrive": "10:45",
+        "duration": "40分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2807",
+        "from": "莆田",
+        "to": "福州",
+        "depart": "11:00",
+        "arrive": "11:35",
+        "duration": "35分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D3135",
+        "from": "莆田",
+        "to": "杭州东",
+        "depart": "12:30",
+        "arrive": "17:08",
+        "duration": "4小时38分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2811",
+        "from": "莆田",
+        "to": "厦门北",
+        "depart": "13:45",
+        "arrive": "14:45",
+        "duration": "1小时",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D6401",
+        "from": "莆田",
+        "to": "龙岩",
+        "depart": "14:30",
+        "arrive": "17:05",
+        "duration": "2小时35分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2815",
+        "from": "莆田",
+        "to": "福州",
+        "depart": "16:00",
+        "arrive": "16:35",
+        "duration": "35分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D6551",
+        "from": "莆田",
+        "to": "厦门",
+        "depart": "17:20",
+        "arrive": "18:28",
+        "duration": "1小时8分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2819",
+        "from": "莆田",
+        "to": "深圳北",
+        "depart": "18:00",
+        "arrive": "22:26",
+        "duration": "4小时26分",
+        "type": "高铁"
+      },
+      {
+        "train_no": "D6561",
+        "from": "莆田",
+        "to": "泉州",
+        "depart": "19:30",
+        "arrive": "20:10",
+        "duration": "40分",
+        "type": "动车"
+      },
+      {
+        "train_no": "G2823",
+        "from": "莆田",
+        "to": "福州",
+        "depart": "20:30",
+        "arrive": "21:05",
+        "duration": "35分",
+        "type": "高铁"
+      }
+    ]
+  },
+  "highway": {
+    "expressway_mileage": 210.5,
+    "national_road_mileage": 134.0,
+    "provincial_road_mileage": 286.3,
+    "roads": [
+      {
+        "name": "沈海高速公路",
+        "code": "G15",
+        "type": "国家高速",
+        "length_in_putian": 98.5,
+        "exits": [
+          "莆田北",
+          "莆田",
+          "莆田南",
+          "仙游",
+          "秀屿"
+        ],
+        "description": "纵贯莆田市南北，连接福州和厦门"
+      },
+      {
+        "name": "莆永高速公路",
+        "code": "S10",
+        "type": "省级高速",
+        "length_in_putian": 65.2,
+        "exits": [
+          "莆田西",
+          "华亭",
+          "仙游西"
+        ],
+        "description": "向西连接永安，是莆田通往内陆的重要通道"
+      },
+      {
+        "name": "福诏高速公路",
+        "code": "G1515",
+        "type": "国家高速",
+        "length_in_putian": 45.8,
+        "exits": [
+          "涵江",
+          "江口"
+        ],
+        "description": "连接福州与诏安，途经涵江区"
+      }
+    ]
+  },
+  "port": {
+    "total_ports": 4,
+    "total_berths": 40,
+    "annual_cargo": 11100,
+    "ports": [
+      {
+        "name": "文甲码头",
+        "type": "客运码头",
+        "coordinates": [
+          119.153703,
+          25.121866
+        ],
+        "district": "秀屿区",
+        "description": "前往湄洲岛的主要客运码头",
+        "daily_passengers": 5000
+      },
+      {
+        "name": "秀屿港区",
+        "type": "深水良港",
+        "coordinates": [
+          118.988634,
+          25.216168
+        ],
+        "district": "秀屿区",
+        "berths": 15,
+        "annual_cargo": 3500,
+        "description": "福建省重要港口，湄洲湾北岸核心港区"
+      },
+      {
+        "name": "东吴港区",
+        "type": "综合港口",
+        "coordinates": [
+          119.07512,
+          25.106799
+        ],
+        "district": "秀屿区",
+        "berths": 25,
+        "annual_cargo": 6800,
+        "description": "国家一类开放口岸，大型散货码头"
+      },
+      {
+        "name": "湄洲岛码头",
+        "type": "旅游客运",
+        "coordinates": [
+          119.147052,
+          25.092651
+        ],
+        "district": "秀屿区",
+        "description": "湄洲岛主要客运码头，妈祖文化朝圣地"
+      }
+    ],
+    "ferry_schedules": [
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "07:00",
+        "arrive": "07:25",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "07:50",
+        "arrive": "08:15",
+        "type": "快艇",
+        "price": "35元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "08:30",
+        "arrive": "08:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "09:30",
+        "arrive": "09:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "10:30",
+        "arrive": "10:55",
+        "type": "快艇",
+        "price": "35元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "11:30",
+        "arrive": "11:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "13:00",
+        "arrive": "13:25",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "14:00",
+        "arrive": "14:25",
+        "type": "快艇",
+        "price": "35元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "15:00",
+        "arrive": "15:25",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "文甲码头-湄洲岛",
+        "depart": "16:30",
+        "arrive": "16:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "湄洲岛-文甲码头",
+        "depart": "07:30",
+        "arrive": "07:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "湄洲岛-文甲码头",
+        "depart": "09:00",
+        "arrive": "09:25",
+        "type": "快艇",
+        "price": "35元"
+      },
+      {
+        "route": "湄洲岛-文甲码头",
+        "depart": "11:00",
+        "arrive": "11:25",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "湄洲岛-文甲码头",
+        "depart": "14:30",
+        "arrive": "14:55",
+        "type": "客轮",
+        "price": "25元"
+      },
+      {
+        "route": "湄洲岛-文甲码头",
+        "depart": "17:00",
+        "arrive": "17:25",
+        "type": "客轮",
+        "price": "25元"
+      }
+    ]
+  },
+  "bus_station": {
+    "stations": [
+      {
+        "name": "仙游汽车站",
+        "address": "鲤南镇西埔村",
+        "coordinates": [
+          118.704421,
+          25.349181
+        ],
+        "tel": "0594-6761736"
+      },
+      {
+        "name": "枫亭汽车站(公交站)",
+        "address": "(停运)636路;(停运)仙游632/659路;152路;153路;392路;555路;557路;559路;仙游618路;仙游621路",
+        "coordinates": [
+          118.85685,
+          25.248529
+        ],
+        "tel": []
+      },
+      {
+        "name": "笏石汽车站",
+        "address": "笏石镇北埔村南埔头13号",
+        "coordinates": [
+          119.093835,
+          25.312815
+        ],
+        "tel": "0594-6737885"
+      },
+      {
+        "name": "莆田汽车站",
+        "address": "荔园南路261号",
+        "coordinates": [
+          119.031588,
+          25.426247
+        ],
+        "tel": []
+      },
+      {
+        "name": "涵江汽车站",
+        "address": "涵东街道涵华东路918号",
+        "coordinates": [
+          119.124266,
+          25.458736
+        ],
+        "tel": "0594-3868789"
+      }
+    ],
+    "intercity_schedules": [
+      {
+        "route": "莆田-福州",
+        "depart": "06:30",
+        "arrive": "08:00",
+        "price": "35元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-福州",
+        "depart": "07:30",
+        "arrive": "09:00",
+        "price": "35元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-福州",
+        "depart": "08:30",
+        "arrive": "10:00",
+        "price": "30元",
+        "type": "普通"
+      },
+      {
+        "route": "莆田-厦门",
+        "depart": "07:00",
+        "arrive": "09:30",
+        "price": "55元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-厦门",
+        "depart": "09:00",
+        "arrive": "11:30",
+        "price": "55元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-厦门",
+        "depart": "13:00",
+        "arrive": "15:30",
+        "price": "50元",
+        "type": "普通"
+      },
+      {
+        "route": "莆田-泉州",
+        "depart": "07:15",
+        "arrive": "08:30",
+        "price": "28元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-泉州",
+        "depart": "08:45",
+        "arrive": "10:00",
+        "price": "28元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-泉州",
+        "depart": "10:30",
+        "arrive": "11:45",
+        "price": "25元",
+        "type": "普通"
+      },
+      {
+        "route": "莆田-漳州",
+        "depart": "08:00",
+        "arrive": "11:00",
+        "price": "68元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-三明",
+        "depart": "07:30",
+        "arrive": "11:00",
+        "price": "75元",
+        "type": "快速"
+      },
+      {
+        "route": "莆田-龙岩",
+        "depart": "08:00",
+        "arrive": "12:00",
+        "price": "85元",
+        "type": "快速"
+      }
+    ]
+  },
+  "public_transport": {
+    "bus_lines": 68,
+    "total_buses": 520,
+    "daily_passengers": 180000,
+    "coverage_rate": 0.85,
+    "key_routes": [
+      {
+        "name": "K1路",
+        "description": "莆田站-涵江区政府"
+      },
+      {
+        "name": "K2路",
+        "description": "莆田站-秀屿区政府"
+      },
+      {
+        "name": "21路",
+        "description": "火车站-湄洲岛码头"
+      },
+      {
+        "name": "32路",
+        "description": "城区环线"
+      }
+    ]
+  },
+  "statistics": {
+    "highway_density": 1.35,
+    "railway_station_coverage": "100%",
+    "port_throughput_rank": "福建省第4位",
+    "transport_convenience_index": 85.6,
+    "daily_train_services": 156,
+    "daily_ferry_services": 30,
+    "daily_bus_services": 280
+  },
+  "data_source": "高德地图API"
+}

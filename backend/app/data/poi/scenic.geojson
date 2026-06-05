@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九鲤湖风景区",
+        "address": "钟山镇湖亭村",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-7290862;0594-7291886",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.821591,
+          25.460157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凤凰山公园",
+        "address": "文献西路1685号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": "0594-2680716",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.987506,
+          25.448897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九龙谷国家森林公园",
+        "address": "常太镇莒溪溪南村",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": "0594-2812222;0594-2821888",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.870946,
+          25.437744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲岛国家旅游度假区",
+        "address": "湄洲镇湄洲大道1566号",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": "4009189966",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.128483,
+          25.063753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙水洋景区",
+        "address": "度风线",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-8891266",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.604164,
+          25.571729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "菜溪岩风景区",
+        "address": "53公里菜溪乡境内",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-8664129",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.662804,
+          25.582163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖诞生地-天妃故里遗址公园",
+        "address": "湄洲北大道1699号",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": "0594-8959886",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.138056,
+          25.089201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "永兴岩风景区",
+        "address": "大洋乡瑞云山森林公园内(东侧)",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.023548,
+          25.725613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "绶溪公园",
+        "address": "荔城北大道",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "0594-2259229",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.01937,
+          25.458494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白塘湖公园",
+        "address": "白塘街429号",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.09648,
+          25.436912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖阁",
+        "address": "山亭镇烟墩山",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.106301,
+          25.112717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游兰溪公园",
+        "address": "鲤南镇园滨东路381号正南方向70米",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "15959411059",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.696585,
+          25.354184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "滴水岩风景区",
+        "address": "埭头镇田边村大邦自然村",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.263064,
+          25.309766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木兰陂公园",
+        "address": "霞林街道屿上社区屿上558号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.981735,
+          25.40681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "钟潭风景区",
+        "address": "霞林街道霞林社区西部钟潭山麓",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": "0594-2686000",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.976678,
+          25.418597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "壶公山风景区",
+        "address": "15国道沈海高速",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.011858,
+          25.352496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "忠门镇沁头妈祖公园",
+        "address": "莆港街与忠北路交叉口南460米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.08137,
+          25.204928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盖尾湖坂综治文化公园",
+        "address": "玉金路与郑元水之路交叉口东南420米",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.839426,
+          25.356496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "塔斗山公园",
+        "address": [],
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.867281,
+          25.254346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江口蒜溪生态公园",
+        "address": "江口镇东大村",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.227003,
+          25.52148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游石鼓山公园",
+        "address": "八二五南街与宫后路交叉口东340米",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.699867,
+          25.343985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游文庙",
+        "address": "师范路1号",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.698537,
+          25.36068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "极乐寺",
+        "address": "赖店镇坂龙路",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.735385,
+          25.316648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖公园",
+        "address": "城南工商所北800米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "0594-2815577",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.031397,
+          25.42136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南湖公园",
+        "address": "荔城南大道34号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.994371,
+          25.423943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南门荔枝公园",
+        "address": "南园东路02号半岛国际大酒店附近",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.013755,
+          25.419833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "农民公园",
+        "address": "黄石镇横塘村横塘村",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.056212,
+          25.361288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "紫霄风景区",
+        "address": "西天尾镇",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.04339,
+          25.512839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "双桂山体育公园",
+        "address": "大济镇龙坂村",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.599258,
+          25.380325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "神山顶",
+        "address": "北高镇美兰村",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "13559823713",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.208526,
+          25.339991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西黄妈祖文化公园",
+        "address": [],
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.951639,
+          25.271496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东岩山公园",
+        "address": "胜利北路1396号",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.018553,
+          25.445338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "官帽山公园",
+        "address": "华亭镇五云村",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.862303,
+          25.400676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游天马风景区",
+        "address": "游洋镇天马风景区(231县道北)",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.892063,
+          25.616963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北高镇东皋村妈祖文化公园",
+        "address": "东皋村",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.223709,
+          25.334272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹅山妈祖文化园",
+        "address": "北高镇冲沁村后鹅屿内",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.238834,
+          25.31682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东山湄洲妈祖行宫",
+        "address": "胜利北路1396号东岩山公园内(南侧)",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.017915,
+          25.443776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人民公园",
+        "address": "人民街1098号",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": "0594-3392622",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.123428,
+          25.47177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埭头公园",
+        "address": "石城疏港公路",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.232597,
+          25.25088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九龙谷森林公园-七D玻璃栈道",
+        "address": "九龙谷国家森林公园内(西侧)",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-2812222",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.827697,
+          25.447013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海峡艺雕旅游城",
+        "address": "度尾镇中岳乡艺雕路168号(木将古典家具附近)",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-8886888",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.562544,
+          25.420366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "楼镜头风景区",
+        "address": "榜头镇东宫村楼镜头山",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.791349,
+          25.455314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莲花公园",
+        "address": "龙华镇貂峰村",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.629274,
+          25.336427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西河公园",
+        "address": "涵西街道高林街荔州别墅西北",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.10146,
+          25.457557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安平桥风景区",
+        "address": "龙华镇金沙村180号",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "13615991201",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.558109,
+          25.312634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红树林生态公园",
+        "address": "湄洲大道湄洲岛·国家旅游度假区",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.122086,
+          25.048838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石庭公园",
+        "address": "涵庭路",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.157587,
+          25.46988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖故居",
+        "address": "湄洲山亭镇天后中路与祖祠路交叉口西南280米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.124748,
+          25.131336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文峰宫",
+        "address": "镇海街道文献社区文献东路329号",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "0594-2295610",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.016029,
+          25.431388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东山报恩寺",
+        "address": "胜利北路1396号东岩山公园(西南角)",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.017799,
+          25.444286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妈祖文化体育公园",
+        "address": "西龙寺附近",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.132673,
+          25.144973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖公园-白湖顺济庙",
+        "address": "荔园南路玉湖公园(东侧)",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "13850205679",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.031894,
+          25.421554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "后卓溪公园",
+        "address": "石盘路与北川路交叉口南120米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.04404,
+          25.477448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞峰主题公园",
+        "address": "瑞峰路",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78196,
+          25.369076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹅尾海蚀地质公园",
+        "address": "湄洲岛国家旅游度假区内(南侧)",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": "0594-5089922",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.12404,
+          25.027777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大悲岩仙公寺",
+        "address": "园庄镇大悲岩慈德寺西侧",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.745636,
+          25.250776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "走马亭村口袋公园",
+        "address": "走马亭村",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.873319,
+          25.369858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "尚书公园",
+        "address": "苍霞路与湖园路交叉口东北180米",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.107335,
+          25.464795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖木兰滨溪公园",
+        "address": "荔兰西路与尚济街交叉口南80米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.051188,
+          25.411805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东游公园",
+        "address": "石农街与228国道交叉口西北420米",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.158022,
+          25.483332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新墩爱心公园",
+        "address": "江口镇新墩村无形路",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.199644,
+          25.473458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九鲤湖风景区-九鲤飞瀑",
+        "address": "钟山镇九鲤湖村(近九龙谷)九鲤湖内",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-7290862",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.822831,
+          25.457201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湄洲岛红树林生态公园-观景平台",
+        "address": "红树林生态公园",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.122764,
+          25.054875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九鲤湖风景区-瀑布漈",
+        "address": "钟山镇九鲤湖村(近九龙谷)九鲤湖内",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": "0594-7290862",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82342,
+          25.456165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "公园湾",
+        "address": "清塘大道与后井街交叉口西300米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.097589,
+          25.326048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "守护木兰溪生态司法河长制公园",
+        "address": "三江街3229号",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.129436,
+          25.407444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市税苑公园(南湖公园)",
+        "address": "广化路605号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.993396,
+          25.423732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田绿心农业文化公园",
+        "address": "尚勤街1979号",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.056341,
+          25.425069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木兰溪法治文化公园",
+        "address": "滨溪北路与学园南路交叉口东20米",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.011636,
+          25.407881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "郑侨状元文化主题公园",
+        "address": "菜溪乡",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.706079,
+          25.554574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "泗华郊野公园(泗华路出口)",
+        "address": "溪南支路1696号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.005853,
+          25.475888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东吴村海边口袋公园",
+        "address": "东吴村",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.048572,
+          25.120328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "滨海公园",
+        "address": "碧桂园综合楼98号正南方向120米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.143114,
+          25.130243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华中村龙舟公园",
+        "address": "莆兴路201号",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.095515,
+          25.398992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "洞湖公园",
+        "address": "东川路西20米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.041977,
+          25.473825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木兰陂公园-钱四娘像",
+        "address": "霞林街道屿上社区屿上558号木兰陂公园(东南角)",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.985287,
+          25.405155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "后卓法华寺",
+        "address": "少林北街九华山部队公园",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.030202,
+          25.494138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿石城环海公园",
+        "address": "埭头镇石城村",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.372878,
+          25.262522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖环湖公园-亲水平台",
+        "address": "玉湖环湖公园内(西侧)",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.038126,
+          25.420137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹅尾海蚀地质公园-观景平台",
+        "address": "湄洲岛国家旅游度假区内(南侧)鹅尾海蚀地质公园",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.123468,
+          25.025701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "望湖公园",
+        "address": "文龙路",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "13559115706",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.037764,
+          25.417163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖石淉生态公园-观景台",
+        "address": "湄洲大道与紫荆路交叉口北260米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.128623,
+          25.063489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天国寺",
+        "address": "园庄镇232县道东石水库旁",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.708487,
+          25.255027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市税苑公园(城厢区埔柳村)",
+        "address": "紫山西路725号",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.884226,
+          25.386182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天妃故里遗址公园-北牌坊",
+        "address": "湄洲岛湄洲大道1599号旁天妃故里内",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.139667,
+          25.089564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "泗华水上公园",
+        "address": "下郑街与溪北路交叉口南280米",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.008035,
+          25.464659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木兰溪体育公园",
+        "address": "万科六期西侧",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.04351,
+          25.416028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玉湖环湖公园",
+        "address": "尚济街与荔浦路交叉口南320米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.044385,
+          25.420843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田水上巴士景区",
+        "address": "荔园中路辅路与南郊路交叉口东北60米",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.042981,
+          25.458645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "公园路妈祖湿地公园",
+        "address": "滨海大道",
+        "type": "scenic",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.915963,
+          25.247933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "绶溪公园-状元阁",
+        "address": "绶溪公园东岸片区",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019778,
+          25.457886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "木兰溪滩地公园",
+        "address": "木兰溪桥下",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.055369,
+          25.412744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东潘滨海公园",
+        "address": "东潘社区滨海旅游区西北侧140米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.113093,
+          25.208809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "紫玉湖湿地公园",
+        "address": "山亭镇上港(莆田外国语学校南侧)",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.111469,
+          25.130135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南湖公园-前广场",
+        "address": "荔城南大道34号南湖公园内(东侧)",
+        "type": "scenic",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.996133,
+          25.424157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东墩村后田公园",
+        "address": "三宝造物文化创意有限公司西侧180米",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.071291,
+          25.442419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西庄淡公园",
+        "address": "涵港大道277号",
+        "type": "scenic",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.081184,
+          25.492095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "五侯山-矿山山体公园瞭望台",
+        "address": "笏石来宅小学东侧240米",
+        "type": "scenic",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.141759,
+          25.315366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "后黄景区",
+        "address": "西天尾镇后黄社区69号",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": "0594-3090606",
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.063778,
+          25.489228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "绶溪公园吴公庙",
+        "address": "荔城北大道绶溪公园(西北角)",
+        "type": "scenic",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": "tour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.01871,
+          25.459556
+        ]
+      }
+    }
+  ]
+}

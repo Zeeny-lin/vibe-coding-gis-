@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/mazu-icon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="莆田市市情WebGIS系统 - 融入妈祖文化特色的智能地理信息平台">
+    <meta name="keywords" content="莆田,GIS,妈祖文化,地图,市情">
+    <title>莆田市市情WebGIS系统</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- 高德地图 JS API 2.0 -->
+    <script type="text/javascript">
+      window._AMapSecurityConfig = {
+        securityJsCode: ''  // 如需安全密钥，在此填写
+      }
+    </script>
+    <script type="text/javascript" src="https://webapi.amap.com/maps?v=2.0&key=f526ba6e95424e14f56d0f777cf82154&plugin=AMap.PlaceSearch,AMap.AutoComplete,AMap.Geocoder,AMap.Driving,AMap.ToolBar,AMap.Scale,AMap.MapType"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

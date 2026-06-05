@@ -1,0 +1,1905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵江区国欢镇中学",
+        "address": "国园路50号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.11527,
+          25.471031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区黄石中心小学五龙分校",
+        "address": "五龙街288号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.094959,
+          25.375871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第二十二中学",
+        "address": "湄洲镇兴岛路285号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.128584,
+          25.082418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田哲理中学",
+        "address": "龙桥街道兴安路269弄6号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": "0594-2293575",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.011705,
+          25.441371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆禧小学",
+        "address": "湄洲湾北岸经济开发区",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.144048,
+          25.140574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大坂小学",
+        "address": "大坂村上大坂",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.035566,
+          25.342193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第二十八中学",
+        "address": "东庄镇秀港东大道266号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5592127",
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.044326,
+          25.24917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县华文小学",
+        "address": "解放东路1135号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8251885",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.703793,
+          25.363142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县大济中学",
+        "address": "垅溪村塔峰2号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8090630",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.627777,
+          25.372671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东仙朝阳小学",
+        "address": "东仙村山柄151号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.153566,
+          25.139728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "山星小学",
+        "address": "平海镇山星村",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5702475",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.265462,
+          25.208336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区实验小学城北校区",
+        "address": "笏石镇西徐村西山268号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.086987,
+          25.344659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "团结小学",
+        "address": "龙华镇团结村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.64272,
+          25.330967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大济中心小学",
+        "address": "垅溪北街与大济东路交叉口东北260米",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.639093,
+          25.369664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建省莆田市实验小学",
+        "address": "镇海街道北大南街108号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019275,
+          25.4294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "下屿初级中学",
+        "address": "东峤镇霞东村新厝252号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5199766",
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.178496,
+          25.2462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第十九中学",
+        "address": "黄石镇江东村梅妃街116号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.092866,
+          25.4104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市实验中学",
+        "address": "国欢镇人民街1099号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3293333;0594-3299899",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.120716,
+          25.471951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庄边中学",
+        "address": "庄边北街45号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3010493",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.979541,
+          25.63585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柯朱中学",
+        "address": "柯朱村349号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019238,
+          25.305888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沙堤中学",
+        "address": "黄石镇沙堤村下新厝8号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-2197797",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.096648,
+          25.362395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第十六中学",
+        "address": "北高镇尚德西路521号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.143229,
+          25.342256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市城厢区逸夫实验小学",
+        "address": "梅园西路1255弄36号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.002498,
+          25.440567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北京大学附属中学莆田学校",
+        "address": "笏石街道莆兴路3988号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高等院校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.065649,
+          25.33834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县湖宅初级中学",
+        "address": "湖宅村井头45",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.817031,
+          25.326622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黄石中心小学",
+        "address": "黄石镇黄石社区书兴路133号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.082004,
+          25.37817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白塘镇中学",
+        "address": "白塘镇江尾村江尾36号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3507847",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.084631,
+          25.43884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区实验小学(城南校区)",
+        "address": "笏石镇四新村苏吴666号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.109282,
+          25.290065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "开发区中心小学",
+        "address": "枫亭镇荷珠村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.877843,
+          25.262193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田华侨中学",
+        "address": "江口镇新前村油兰166号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3686028;0594-3697928",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.197425,
+          25.491534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平海第二中心小学",
+        "address": "平海镇溪边村前厝373号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.243773,
+          25.229263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大埔小学",
+        "address": "东海镇大埔村4队131号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": "0594-5336232",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.912209,
+          25.26565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南门中特小学",
+        "address": "中特小区11号搂",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.009322,
+          25.417082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第十四中学",
+        "address": "国欢镇公园西路799号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3861936;0594-3881073",
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.103058,
+          25.470444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田工业职业技术学校(四新校区)",
+        "address": "笏石镇秀屿大道1899号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "职业学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.103458,
+          25.297749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市实验小学秀屿分校",
+        "address": "笏石镇霞厝街2739号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.058269,
+          25.33544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西厝中学",
+        "address": "东海镇东海东大道1477号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.940738,
+          25.282649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石码初级中学",
+        "address": "东庄镇石码村石码132号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5594399",
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.076847,
+          25.270875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市涵江区实验小学",
+        "address": "石坊街169号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-6720560",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.110674,
+          25.450923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "埭头黄岐小学",
+        "address": "埭头镇黄岐村下坂127",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.297394,
+          25.317468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "竹庄中学",
+        "address": "榜头镇",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-7795746",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.754592,
+          25.379904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华西小学",
+        "address": "黄石镇华中村",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.099127,
+          25.40127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "官舍中学",
+        "address": "榜头镇官舍村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-7795557",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.767658,
+          25.444546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区教师进修学校附属第一小学",
+        "address": "东峤镇上塘村求知街1号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.196376,
+          25.253277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "太平小学",
+        "address": "龙桥街道十字街179号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.013325,
+          25.429647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵西中心小学",
+        "address": "楼下街29号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.103777,
+          25.450043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北岸第二实验小学",
+        "address": "忠门镇海城路118号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.094657,
+          25.185404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "名邦小学",
+        "address": "荔城南大道899号名邦豪苑内",
+        "type": "school",
+        "district": "城厢区",
+        "tel": "0594-2631000",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.994798,
+          25.428302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田擢英中学(学园校区)",
+        "address": "霞林街道学园南街1699号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.005276,
+          25.416461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蒲江小学",
+        "address": "梧塘镇溪游村44号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.078913,
+          25.475197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三会小学",
+        "address": "大济镇三会村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8060286",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.626547,
+          25.359917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建省仙游金石中学",
+        "address": "鲤城街道胜利路1393号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8266933",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.682165,
+          25.363532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田第二十五中学",
+        "address": "笏石镇大坵村大坵666号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5891217",
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.107644,
+          25.30563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "度尾第二中心小学",
+        "address": "度尾镇剑山村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8820053",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.544591,
+          25.428321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖东中学",
+        "address": "湖东村9组",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.250411,
+          25.250902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "梅峰小学",
+        "address": "镇海街道胜利北街512号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-2292905",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.014638,
+          25.436017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建省莆田科技职业技术学校",
+        "address": "华亭镇荔华西大道2833号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": "0594-2027467",
+        "biz_type": [],
+        "level": "职业学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.949917,
+          25.388981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大济龙坂小学",
+        "address": "大济镇龙坂村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.599104,
+          25.373217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田哲理中学(高中部)",
+        "address": "荔城北大道与溪白路交叉口西北400米",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.022123,
+          25.483843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区拱辰中心小学分校",
+        "address": "拱辰街道胜利北街2695号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.022289,
+          25.455325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新县中心小学",
+        "address": "新县镇溪西路338号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3099513",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.049938,
+          25.651813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "游洋中学",
+        "address": "游洋镇梧椿村顶灶",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81933,
+          25.627152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田海峡职业中专学校",
+        "address": "黄石镇水南居委会东洙171号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-3298316;0594-3298318",
+        "biz_type": [],
+        "level": "其他学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.078732,
+          25.373929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿区西柯中学",
+        "address": "平海镇西柯村北房50号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.250129,
+          25.213136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县实验小学",
+        "address": "鲤城街道党校街189号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8288156",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.693618,
+          25.362183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市城厢区筱塘小学",
+        "address": "凤凰山街道龙脊路555号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.009165,
+          25.429853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建省莆田第一中学初中部",
+        "address": "新度镇渠清路3098号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.036362,
+          25.37987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区实验中学",
+        "address": "东峤镇前沁村前沁1040号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.12934,
+          25.277759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "钟山中心小学",
+        "address": "钟山镇钟山街",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-7281106",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.790358,
+          25.518528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤岑初级中学",
+        "address": "笏石镇杨林村赤岑146号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5890022",
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.067384,
+          25.33653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "陈桥小学",
+        "address": "白塘镇陈桥村",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.077773,
+          25.439853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黄石中心小学第一分校",
+        "address": "重兴南街与永盛路交叉口西南440米",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.086951,
+          25.361919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东庄锦山小学",
+        "address": "东庄镇锦山村后江仔329号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.055643,
+          25.257219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新郑小学",
+        "address": "新郑村民委员会西北侧",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.783175,
+          25.430075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "钟峰小学",
+        "address": "大济镇钟峰村",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.617845,
+          25.369946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北高中心小学",
+        "address": "北高镇北高村北高904号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "高中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.144385,
+          25.338321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "郑坂中心小学",
+        "address": "新度镇郑坂村",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.014499,
+          25.398344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "泗华小学",
+        "address": "龙桥街道溪北路1688号",
+        "type": "school",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.007252,
+          25.470603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田东郊小学",
+        "address": "新度镇东郊村顶宋122号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.048831,
+          25.371911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区清江中学",
+        "address": "黄石镇清中村东前335号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-2156232",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.069328,
+          25.405592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "笏石中心小学",
+        "address": "笏石镇北埔村北埔30号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.098405,
+          25.309051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白塘镇集奎小学",
+        "address": "白塘镇集奎村岱埕454号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": "0594-3500672",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.105302,
+          25.444761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖坂小学",
+        "address": "盖尾镇湖坂村黄畲501号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.847964,
+          25.355122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "枫亭海平初级中学",
+        "address": "枫亭镇海安村草楼196号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.890134,
+          25.2701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阮庄小学",
+        "address": "郊尾镇阮庄村172号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.820617,
+          25.300714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "后面小学",
+        "address": "后面村后巷108号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-7393571",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.826708,
+          25.337216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "梧梓小学",
+        "address": "梧塘镇梧梓村",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.098482,
+          25.49339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中山中学(北区)",
+        "address": "荔城区委员会西北门旁",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.013151,
+          25.433201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中山中学(南区)",
+        "address": "胜利北街与大唐步行街交叉口东100米",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.013725,
+          25.432375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田擢英中学(东大路校区)",
+        "address": "镇海街道东大路338号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-2221980;0594-2289778",
+        "biz_type": [],
+        "level": "中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.015791,
+          25.428498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县三会初级中学",
+        "address": "大济镇三会村三会张1号",
+        "type": "school",
+        "district": "仙游县",
+        "tel": "0594-8091512",
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.633239,
+          25.360798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "哆中小学",
+        "address": "三江口镇哆中村火头顶34号",
+        "type": "school",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.132698,
+          25.43279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新度初级中学",
+        "address": "新度镇新度村后亭316号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "初中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.044042,
+          25.396998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "冲沁小学",
+        "address": "北高镇冲沁村",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.224478,
+          25.315405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区新溪小学",
+        "address": "镇海街道新溪社区三社120号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.036525,
+          25.414558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西洙中心小学",
+        "address": "迎宾大道路口",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.06157,
+          25.428683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新度厝柄小学",
+        "address": "天妃路5789号",
+        "type": "school",
+        "district": "荔城区",
+        "tel": "0594-2993436",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.053579,
+          25.390457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区实验小学(本部校区)",
+        "address": "桃李街266号",
+        "type": "school",
+        "district": "秀屿区",
+        "tel": "0594-5861856",
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.088074,
+          25.313329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "竹庄小学",
+        "address": "北高镇竹庄村",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.196773,
+          25.335913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七步小学",
+        "address": "荔园中路冰火岛附近",
+        "type": "school",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.052759,
+          25.453184
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田雅美佳口腔专科医院",
+        "address": "南郊村延寿路766号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2776599",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.034299,
+          25.451781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田妇产专科医院",
+        "address": "胜利路63号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-3383999",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.012036,
+          25.428378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田眼睛明眼科专科医院",
+        "address": "二零二省道旁",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2155555",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.071883,
+          25.373419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田生殖医学专科医院",
+        "address": "霞林街道莆阳东路728号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2592923",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.018663,
+          25.425964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿区医院",
+        "address": "秀山村大营266号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "0594-5895555",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.090853,
+          25.313434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田眼科医院",
+        "address": "文献东路1958号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2708888",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.031454,
+          25.42625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院",
+        "address": "凤凰山街道南门西路449号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2292145;0594-8982060",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.006048,
+          25.428716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院危重孕产妇救治中心",
+        "address": "凤凰山街道南门西路449号莆田市第一医院",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.006378,
+          25.427908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院新院区",
+        "address": "拱辰街道东圳东路999号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2730555;0594-2730393;0594-2293910",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.032379,
+          25.447574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市中医医院",
+        "address": "学园北路锦峰龙园对面",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2506889",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.020208,
+          25.451993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田九十五医院",
+        "address": "镇海街道东岩路485号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2292361;0594-2299999",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.021671,
+          25.441084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市涵江区平民医院",
+        "address": "锦岚街80号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-3611120;0594-3611626",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.195163,
+          25.487587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田涵江骨科专科医院",
+        "address": "城涵东大道2748号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-3608905",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.075798,
+          25.467421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田丽人妇科医院",
+        "address": "莆阳西路690号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "15375943842",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.004532,
+          25.424587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游京福口腔医院",
+        "address": "城南东路仙游汽车站进站口旁边",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8557888",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.705013,
+          25.349679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区中医院",
+        "address": "拱辰街道玉湖路尚勤街张镇水乡B区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-7977246",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.054703,
+          25.420697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县总医院新院区",
+        "address": "鲤城街道清源东路1999号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8292348",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.703424,
+          25.376753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田涵江医院",
+        "address": "国欢西路2836号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-3880070;0594-3893120",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.086583,
+          25.471956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "城厢区医院",
+        "address": "霞林街道八二一南街1166号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-8996789;15060316120",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019729,
+          25.419913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游眼科医院·华厦眼科·配镜OK镜",
+        "address": "鲤南镇城南东路966号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8226666",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.704939,
+          25.349701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田卓氏正骨医院",
+        "address": "壶公西路3001号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.03781,
+          25.375956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "慈安精神专科医院",
+        "address": "土山村南丰中街362号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8688120",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.730404,
+          25.335498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田滨海医院",
+        "address": "枫亭镇枫江北街2008号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-7622222;0594-7656666",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.860578,
+          25.267132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市慈康医院",
+        "address": "城港大道附近",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2197206",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.023901,
+          25.370889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市文献口腔医院",
+        "address": "镇海街道东梅路789号正鼎早城1号楼201室、301室、2号楼301室",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-6285555",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.026628,
+          25.428126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田平安医院",
+        "address": "学园南街622号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-5550606",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.001798,
+          25.427796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田康复眼科专科医院",
+        "address": "黄石镇梅雪北大道89号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2163301;0594-2193301",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.07753,
+          25.370491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市荔城区医院",
+        "address": "南洋西大道185号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2157306",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.080276,
+          25.375153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田盛兴医院",
+        "address": "笏石镇顶城路1368号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "0594-5566666;0594-5955555",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.102459,
+          25.31074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游博爱医院",
+        "address": "鲤城街道龙仙路1177号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8160999",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.686086,
+          25.356092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田华侨医院",
+        "address": "石庭西路869号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-3791913;0594-3795120",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.15366,
+          25.473769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田阳光医院",
+        "address": "文献东路1783号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-8986666",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.030802,
+          25.427493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游城东医院",
+        "address": "东大街1265号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8582120",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.711041,
+          25.368695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑞斯康复医院",
+        "address": "联发电商未来城西门东110米",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-3829999",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.018555,
+          25.477056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "希邦雅口腔医院",
+        "address": "塘北街168号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-6835555",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.108617,
+          25.454088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福建医科大学附属协和医院妈祖院区",
+        "address": "妈祖健康城内",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "0594-8951120;0594-8957120",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.108493,
+          25.146867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆阳医院",
+        "address": "西天尾镇少林北街558号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.042454,
+          25.491867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华侨医院",
+        "address": "工业路",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-7693155",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.900984,
+          25.380589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南方医院",
+        "address": "莆阳东路618号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.017115,
+          25.425493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵江新医院",
+        "address": "国欢镇都邠村东南国药医院",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.086746,
+          25.471452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县第四医院",
+        "address": "柳安街2166号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-6762719",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.706298,
+          25.335262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东埔嘉华医院",
+        "address": "东埔北街与塔林路交叉口西南260米",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "0594-5986120",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.058606,
+          25.157634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "群益口腔矫正种植美牙专科(学园店)",
+        "address": "万隆花园东门旁",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2292766;0594-6253666",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.002564,
+          25.425392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田赤溪妇产专科医院",
+        "address": "镇海街道文献东路1783号(莆田阳光医院)",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.030815,
+          25.427435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "城厢区医院凤凰山分院",
+        "address": "文献西路1159号",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2292445",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.001356,
+          25.434174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿安康康复医院",
+        "address": "西田村23号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.098309,
+          25.294487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "厦门大学附属厦门眼科医院莆田眼科医院行李房",
+        "address": "莆田眼科医院东北门旁",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2708888",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.031374,
+          25.426349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田华林园区医院",
+        "address": "华林园区医院(荔华东大道南)",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2020882",
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.962309,
+          25.397231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市秀屿安康精神病医院",
+        "address": "笏石镇西田村23号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.098281,
+          25.294498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华侨医院",
+        "address": "枫亭镇蔡襄北街1036号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-7658601",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.859836,
+          25.257664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游晟康精神病医院",
+        "address": "三和街456号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.837185,
+          25.313769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县第二医院",
+        "address": "鲤南镇温泉东路596号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.701739,
+          25.340247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游康明眼科医院",
+        "address": "鲤南镇仙安南街110号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.711508,
+          25.340433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿区第二人民医院(东庄镇卫生院)",
+        "address": "东庄镇秀港中大道606号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.040985,
+          25.248879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵江现代妇科医院",
+        "address": "涵华西路179号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "0594-3565120",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.114052,
+          25.455185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田广济医院",
+        "address": "356国道与324国道交叉口东380米",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.933831,
+          25.380502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游福民医院",
+        "address": "鲤南镇南二环仙妃路1666号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.711171,
+          25.333839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵江涵德康复医院",
+        "address": "涵西街道滨海路388-58号",
+        "type": "hospital",
+        "district": "涵江区",
+        "tel": "13959525968",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.10803,
+          25.446177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田荔城慈济医院",
+        "address": "莆田市荔城区荔港大道3666号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "13559815011",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.079389,
+          25.358883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田博济医院",
+        "address": "山亭镇忠南路1号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "18250517383",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.109433,
+          25.150498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院湄洲岛分院",
+        "address": "湄洲镇兴业街179号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": "0594-5080930;0594-5099500",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.130063,
+          25.082074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城内科综合诊所(莆田市医共体阔口分公司)",
+        "address": "镇海街道天妃路1145号阔口小区17号楼102室",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "15659394319",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.028389,
+          25.424608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县医院医疗集团鲤城分院",
+        "address": "党校街与解放东路交叉口西北60米",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.694543,
+          25.361736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游惠民中西医结合医院",
+        "address": "翁婆石街666号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.735747,
+          25.329861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县总医院榜头分院",
+        "address": "榜头镇",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "13030823367",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.750626,
+          25.417953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿社福医院",
+        "address": "笏石镇笏山路555号(妇幼保健院旁)",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.086927,
+          25.31964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院医疗集团黄石医院",
+        "address": "兴美街与丰石东路交叉口西北260米",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.081389,
+          25.382016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田中医医院眼视光中心",
+        "address": "梅园东路372号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019863,
+          25.437324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市湄洲岛红十字医院",
+        "address": "湄洲卫生院东南门旁",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.129972,
+          25.081965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院新度分院",
+        "address": "新度村6号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.038381,
+          25.399444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县总医院鲤南分院",
+        "address": "振兴街与宫后路交叉口西北440米",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.691098,
+          25.346832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游康佳医院",
+        "address": "金华街与柳安街交叉口东南400米",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.705179,
+          25.334512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游木兰医院",
+        "address": "玉塔村村委会东北侧",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.725017,
+          25.36281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿区医院住院病房综合大楼",
+        "address": "笏石镇大营路245号",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.09121,
+          25.313615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院南日分院",
+        "address": "南日中学东附近",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.477703,
+          25.219331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灵川镇中心卫生院综合楼",
+        "address": "康平东路与康平西路交叉口西北40米",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "一级医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.970439,
+          25.295637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万辉口腔",
+        "address": "荔城北大道1999号万辉国际城2号门",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": "0594-2236666;0594-2239999",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019096,
+          25.467948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院老院区",
+        "address": "镇海街道梅园东路181号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2216911;0594-2292709",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.015196,
+          25.436433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田福德医院",
+        "address": "拱辰街道仪莘路1266号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-5529999",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.037484,
+          25.437208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县鲤城社区卫生服务中心",
+        "address": "党校街59号",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "0594-8256813;0594-8256822",
+        "biz_type": [],
+        "level": "一级医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.694634,
+          25.361784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田海峡医疗美容医院",
+        "address": "八二一中街783号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2722222",
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.024161,
+          25.437171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游中正口腔门诊部(党校街店)",
+        "address": "党校街621号(一环路与党校路交叉口)",
+        "type": "hospital",
+        "district": "仙游县",
+        "tel": "18100586408",
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.693089,
+          25.366886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院新院区住院部",
+        "address": "拱辰街道东圳东路999号莆田学院附属医院新院区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.032914,
+          25.447958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田九十五医院门诊部",
+        "address": "镇海街道东岩路485号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2299999",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.022523,
+          25.441657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院新院区门诊大楼",
+        "address": "东圳东路999号莆田学院附属医院内",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.032033,
+          25.446353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院门诊部",
+        "address": "凤凰山街道南门西路449号莆田市第一医院",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.006351,
+          25.427647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市中医医院行政楼",
+        "address": "莆田市中医医院",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019344,
+          25.451791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院老院区儿科",
+        "address": "镇海街道梅园东路181号莆田学院附属医院老院区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "15597941157",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.014799,
+          25.43693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田九十五医院住院部",
+        "address": "镇海街道东岩路485号莆田九十五医院",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.021753,
+          25.440661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院老院区门诊大楼",
+        "address": "镇海街道梅园东路181号莆田学院附属医院老院区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.015177,
+          25.435958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院体检中心",
+        "address": "南门西路449号3号楼2楼",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.00626,
+          25.42892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市中医医院门诊部",
+        "address": "莆田市中医医院",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.019592,
+          25.45215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市第一医院新院区(建设中)",
+        "address": "福建峻兴管桩有限公司西北门旁",
+        "type": "hospital",
+        "district": "秀屿区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.080977,
+          25.324287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福德医院二期(建设中)",
+        "address": "西洪路与西洪南街交叉口东20米",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.036902,
+          25.436894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院老院区急诊",
+        "address": "镇海街道梅园东路181号莆田学院附属医院老院区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.015175,
+          25.436425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市中医医院健康体检中心",
+        "address": "莆田市中医医院",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "二甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.020801,
+          25.451853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田福德医院-门诊部",
+        "address": "仪莘路1266号",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": [],
+        "biz_type": [],
+        "level": "综合医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.037475,
+          25.437225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田九十五医院急诊科",
+        "address": "镇海街道东岩路485号莆田九十五医院",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2299999",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.022787,
+          25.441666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田学院附属医院新院区急诊",
+        "address": "拱辰街道东圳东路999号莆田学院附属医院新院区",
+        "type": "hospital",
+        "district": "荔城区",
+        "tel": "0594-2291111",
+        "biz_type": [],
+        "level": "三甲医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.033158,
+          25.448534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田妇产医院-门诊楼",
+        "address": "河滨路莆田妇产医院",
+        "type": "hospital",
+        "district": "城厢区",
+        "tel": [],
+        "biz_type": [],
+        "level": "专科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.012157,
+          25.428205
+        ]
+      }
+    }
+  ]
+}

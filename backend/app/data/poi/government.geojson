@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莆田市人民政府",
+        "address": "城厢区荔城中大道2169号",
+        "type": "government",
+        "district": "城厢区",
+        "level": "市级",
+        "tel": "0594-2684116",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.007558,
+          25.431011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "城厢区人民政府",
+        "address": "城厢区文献西路16号",
+        "type": "government",
+        "district": "城厢区",
+        "level": "区级",
+        "tel": "0594-2293291",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.003367,
+          25.441967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "涵江区人民政府",
+        "address": "涵江区涵东街道涵华东路369号",
+        "type": "government",
+        "district": "涵江区",
+        "level": "区级",
+        "tel": "0594-3362218",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.116289,
+          25.458729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荔城区人民政府",
+        "address": "荔城区胜利北街239号",
+        "type": "government",
+        "district": "荔城区",
+        "level": "区级",
+        "tel": "0594-2293368",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.014938,
+          25.430886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秀屿区人民政府",
+        "address": "秀屿区笏石镇秀屿大道88号",
+        "type": "government",
+        "district": "秀屿区",
+        "level": "区级",
+        "tel": "0594-5857003",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.105528,
+          25.318798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仙游县人民政府",
+        "address": "仙游县鲤城街道八二五大街1号",
+        "type": "government",
+        "district": "仙游县",
+        "level": "县级",
+        "tel": "0594-8592503",
+        "biz_type": "gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.691671,
+          25.362147
+        ]
+      }
+    }
+  ]
+}

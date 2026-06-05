@@ -1,0 +1,235 @@
+{
+  "city": "莆田市",
+  "update_time": "2026-01-16 15:17:30",
+  "air_quality": {
+    "city": "莆田市",
+    "update_time": "2026-01-16 15:17:30",
+    "aqi": 38,
+    "quality_level": "优",
+    "primary_pollutant": "-",
+    "pollutants": {
+      "PM2.5": 23.0,
+      "PM10": 38.7,
+      "SO2": 19.6,
+      "NO2": 44.9,
+      "CO": 0.6,
+      "O3": 91.5
+    },
+    "stations": [
+      {
+        "name": "市政府站",
+        "district": "城厢区",
+        "coordinates": [
+          119.007558,
+          25.431011
+        ],
+        "aqi": 42,
+        "quality_level": "优",
+        "PM2.5": 26.6,
+        "PM10": 52.0
+      },
+      {
+        "name": "涵江监测站",
+        "district": "涵江区",
+        "coordinates": [
+          119.116289,
+          25.458729
+        ],
+        "aqi": 26,
+        "quality_level": "优",
+        "PM2.5": 17.9,
+        "PM10": 33.7
+      },
+      {
+        "name": "荔城监测站",
+        "district": "荔城区",
+        "coordinates": [
+          119.014938,
+          25.430886
+        ],
+        "aqi": 53,
+        "quality_level": "良",
+        "PM2.5": 35.0,
+        "PM10": 62.9
+      },
+      {
+        "name": "秀屿监测站",
+        "district": "秀屿区",
+        "coordinates": [
+          119.105528,
+          25.318798
+        ],
+        "aqi": 30,
+        "quality_level": "优",
+        "PM2.5": 23.2,
+        "PM10": 31.9
+      },
+      {
+        "name": "仙游监测站",
+        "district": "仙游县",
+        "coordinates": [
+          118.691671,
+          25.362147
+        ],
+        "aqi": 26,
+        "quality_level": "优",
+        "PM2.5": 19.0,
+        "PM10": 33.0
+      }
+    ]
+  },
+  "weather": {
+    "city": "莆田市",
+    "update_time": "2026-01-16 15:17:30",
+    "current": {
+      "temperature": 25,
+      "feels_like": 16,
+      "humidity": 76,
+      "weather": "阴",
+      "wind_direction": "东北风",
+      "wind_level": 3,
+      "visibility": 9.6,
+      "pressure": 1010,
+      "uv_index": 7
+    },
+    "forecast": [
+      {
+        "date": "2026-01-16",
+        "weekday": "周五",
+        "weather_day": "阴",
+        "weather_night": "阴",
+        "temp_high": 25,
+        "temp_low": 16,
+        "wind_direction": "东北风",
+        "wind_level": 2
+      },
+      {
+        "date": "2026-01-17",
+        "weekday": "周六",
+        "weather_day": "阴",
+        "weather_night": "阴",
+        "temp_high": 27,
+        "temp_low": 12,
+        "wind_direction": "东南风",
+        "wind_level": 4
+      },
+      {
+        "date": "2026-01-18",
+        "weekday": "周日",
+        "weather_day": "晴",
+        "weather_night": "阴",
+        "temp_high": 26,
+        "temp_low": 17,
+        "wind_direction": "东南风",
+        "wind_level": 2
+      },
+      {
+        "date": "2026-01-19",
+        "weekday": "周一",
+        "weather_day": "多云",
+        "weather_night": "阴",
+        "temp_high": 26,
+        "temp_low": 16,
+        "wind_direction": "东南风",
+        "wind_level": 3
+      },
+      {
+        "date": "2026-01-20",
+        "weekday": "周二",
+        "weather_day": "晴",
+        "weather_night": "晴",
+        "temp_high": 22,
+        "temp_low": 17,
+        "wind_direction": "东北风",
+        "wind_level": 4
+      },
+      {
+        "date": "2026-01-21",
+        "weekday": "周三",
+        "weather_day": "小雨",
+        "weather_night": "阴",
+        "temp_high": 28,
+        "temp_low": 14,
+        "wind_direction": "东南风",
+        "wind_level": 2
+      },
+      {
+        "date": "2026-01-22",
+        "weekday": "周四",
+        "weather_day": "小雨",
+        "weather_night": "阴",
+        "temp_high": 28,
+        "temp_low": 16,
+        "wind_direction": "东南风",
+        "wind_level": 2
+      }
+    ]
+  },
+  "water_quality": {
+    "update_time": "2026-01-16 15:17:30",
+    "rivers": [
+      {
+        "name": "木兰溪",
+        "quality_class": "II",
+        "status": "良好",
+        "monitoring_points": [
+          {
+            "name": "木兰陂断面",
+            "quality_class": "II",
+            "coordinates": [
+              118.981735,
+              25.40681
+            ]
+          },
+          {
+            "name": "三江口断面",
+            "quality_class": "II",
+            "coordinates": [
+              119.108412,
+              25.389256
+            ]
+          }
+        ]
+      },
+      {
+        "name": "萩芦溪",
+        "quality_class": "II",
+        "status": "良好",
+        "monitoring_points": [
+          {
+            "name": "萩芦溪入海口",
+            "quality_class": "II",
+            "coordinates": [
+              119.156789,
+              25.421345
+            ]
+          }
+        ]
+      },
+      {
+        "name": "延寿溪",
+        "quality_class": "III",
+        "status": "一般",
+        "monitoring_points": [
+          {
+            "name": "延寿桥断面",
+            "quality_class": "III",
+            "coordinates": [
+              119.012345,
+              25.445678
+            ]
+          }
+        ]
+      }
+    ],
+    "coastal": {
+      "name": "湄洲湾海域",
+      "quality_class": "一类",
+      "status": "优良",
+      "coordinates": [
+        119.128483,
+        25.063753
+      ]
+    }
+  }
+}
